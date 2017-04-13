@@ -10,7 +10,7 @@ config = {
     'download_url': '...github also?',
     'author_email': 'adarling@choicelocalmarketing; mshaw@choicelocalmarketing.com',
     'version': '0.1',
-    'install_requires': ['requests, openpyxl, simplejson, google-api-python-client'],
+    'install_requires': ['requests', 'openpyxl', 'simplejson', 'google-api-python-client'],
     'packages': ['MAIN'],
     'scripts': [],
     'name': 'ChoiceLocal-Social-Poster'
